@@ -1,5 +1,3 @@
-# core/serializers.py
-
 from rest_framework import serializers
 from .models import Task, Project, Organization, User
 from django.contrib.auth import get_user_model
